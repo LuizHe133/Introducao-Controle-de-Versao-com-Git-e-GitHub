@@ -1,12 +1,12 @@
-# 📚 Material Didático: Introdução ao Controle de Versão com Git e GitHub
+# 🌐 Material Didático: HTML e CSS do Zero à Prática
 
-Uma introdução prática e objetiva aos conceitos e comandos fundamentais do **Git** e do **GitHub**, desenvolvida para estudantes de tecnologia e desenvolvedores iniciantes.
+Um guia didático e sequencial projetado para ensinar o desenvolvimento de páginas web fundamentais utilizando **HTML5** e **CSS3**, direcionado a estudantes de tecnologia e desenvolvedores iniciantes.
 
 ---
 
 ## 🎯 Objetivo
 
-Fornecer uma base sólida para quem está começando a versionar código, cobrindo desde a instalação e configuração inicial até fluxos de trabalho colaborativos em equipe.
+Apresentar de forma prática a estrutura e estilização de páginas web, cobrindo desde a semântica de marcação até o layout responsivo com Flexbox e a publicação do site.
 
 ---
 
@@ -14,38 +14,18 @@ Fornecer uma base sólida para quem está começando a versionar código, cobrin
 
 | Módulo | Descrição |
 | :--- | :--- |
-| **[01. Introdução ao Versionamento](docs/01-introducao-versionamento.md)** | O que é controle de versão, diferenças entre Git e GitHub, e instalação. |
-| **[02. Comandos Básicos do Git](docs/02-comandos-basicos-git.md)** | Ciclo de vida dos arquivos, `init`, `status`, `add`, `commit` e `log`. |
-| **[03. Trabalhando com Branches](docs/03-trabalhando-com-branches.md)** | Criação, alternância, fusão (`merge`) e resolução de conflitos. |
-| **[04. Colaboração no GitHub](docs/04-colaboracao-github.md)** | Repositórios remotos, `clone`, `push`, `pull` e abertura de Pull Requests. |
-| **[Exercícios Práticos](exercicios/lista-pratica.md)** | Lista de desafios práticos para fixação do conteúdo. |
+| **[01. Estrutura Básica e HTML Semântico](docs/01-estrutura-html.md)** | Tags fundamentais, anatomia do documento, cabeçalhos, parágrafos e semântica. |
+| **[02. Introdução ao CSS](docs/02-introducao-css.md)** | Seletores, propriedades de texto, cores, modelos de caixas (*Box Model*) e margens. |
+| **[03. Layouts Responsivos com Flexbox](docs/03-flexbox-layout.md)** | Alinhamento de elementos, eixos, distribuição de espaço e criação de interfaces. |
+| **[04. Formulários e Estilização](docs/04-formularios-css.md)** | Criação de campos de entrada, validações nativas e estilização de formulários. |
+| **[Exercícios Práticos](exercicios/lista-pratica.md)** | Projetos guiados para construir uma landing page do zero. |
 
 ---
 
 ## 🚀 Como Utilizar Este Material
 
-1. **Leitura Sequencial:** Recomendamos seguir os módulos na ordem apresentada.
-2. **Prática Guiada:** Execute os comandos no seu próprio terminal à medida que os capítulos avançam.
-3. **Resolução de Exercícios:** Teste seus conhecimentos com a [Lista de Exercícios](exercicios/lista-pratica.md) e consulte o [Gabarito](exercicios/gabarito.md) após finalizar.
-
----
-
-## 🛠️ Pré-requisitos
-
-* Terminal/Linha de comando básica (Bash, Zsh ou PowerShell).
-* [Git](https://git-scm.com/) instalado em sua máquina.
-* Uma conta gratuita no [GitHub](https://github.com/).
-
----
-
-## 🤝 Como Contribuir
-
-Contribuições são super bem-vindas! Se você encontrou algum erro de digitação, quer adicionar um exemplo prático ou sugerir melhorias:
-
-1. Faça um **Fork** deste repositório.
-2. Crie uma branch para sua modificação: `git checkout -b feature/minha-melhoria`.
-3. Faça o commit das suas alterações: `git commit -m "docs: corrige exemplo do comando git log"`.
-4. Envie a branch para o seu repositório remoto: `git push origin feature/minha-melhoria`.
-5. Abra um **Pull Request** explicando o que foi alterado.
+1. **Leitura Sequencial:** Siga os módulos na ordem indicada, pois o conhecimento de CSS depende diretamente do HTML estruturado anteriormente.
+2. **Prática Guiada:** Copie os trechos de código em seu editor, salve os arquivos `.html` e `.css` e visualize no seu navegador.
+3. **Resolução de Exercícios:** Desenvolva os desafios propostos na [Lista de Exercícios](exercicios/lista-pratica.md) e compare com o [Gabarito](exercicios/gabarito.md).
 
 ---
