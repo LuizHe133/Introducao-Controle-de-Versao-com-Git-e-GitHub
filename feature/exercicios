@@ -1,1 +1,31 @@
+//Crie um arquivo chamado index.html e insira as seguintes estruturas:
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Livro Favorito</title>
+</head>
+<body>
+
+    <h1>O Hobbit</h1>
+
+    <p>
+        Uma história de aventura em que Bilbo Bolseiro é contratado pelo mago Gandalf 
+        e um grupo de anões para recuperar um tesouro protegido pelo dragão Smaug.
+    </p>
+
+    <h2>Por que eu recomendo:</h2>
+    <ul>
+        <li>Construção de mundo incrível</li>
+        <li>Personagens cativantes</li>
+        <li>História leve e divertida</li>
+    </ul>
+
+    <p>
+        Quer saber mais? <a href="https://pt.wikipedia.org/wiki/O_Hobbit" target="_blank">Leia mais na Wikipédia</a>.
+    </p>
+
+</body>
+</html>
