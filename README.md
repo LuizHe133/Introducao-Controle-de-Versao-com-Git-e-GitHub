@@ -1,6 +1,6 @@
 # 🌐 Material Didático: HTML e CSS do Zero à Prática
 
-Um guia didático e sequencial projetado para ensinar o desenvolvimento de páginas web fundamentais utilizando **HTML5** e **CSS3**, direcionado a estudantes de tecnologia e desenvolvedores iniciantes.
+Um guia didático e sequencial projetado para ensinar o desenvolvimento de páginas web fundamentais utilizando **HTML** e **CSS**, direcionado a estudantes de tecnologia e desenvolvedores iniciantes.
 
 ---
 
